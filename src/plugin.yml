@@ -1,0 +1,14 @@
+name: SimRPG
+version: 0.0.1
+author: unhappy
+main: unhappy.simrpg.plugin.Main
+description: SimRPG Core Plugin
+
+commands:
+  hello:
+    aliases: [hi]
+    description: Hello Command
+  test:
+    description: Test Gui
+  fly:
+    description: Fly Command
